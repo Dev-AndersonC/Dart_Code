@@ -17,6 +17,7 @@ void main() {
 
 // final é constante na sua atribuição, ele não e constante nos valores que estão dentro da lista
   final listaDeLinguagens = ["Dart", "C#"];
+  // final listaDeLinguagens = const ["Dart", "C#"]; - Agora seu valores são constantes. Porem e uma boa pratica ja criar ele como const desde o inicio.
   listaDeLinguagens.add("java");
 
 //! const seus valores são constantes então se tentarmos atribuir o valor a ela igual ao final, ira entregar um erro.

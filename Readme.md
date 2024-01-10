@@ -4,7 +4,12 @@
 
 <p>Prazer eu me chamo Anderson, e aqui ficara descrito minha jornada!</p>
 
+<h3>Extensão ultilizada para comentarios <h3>
+
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 <h3>Conteudo Ultilizado<h3>
 
-[Curso Dart Completo](https://youtu.be/Vz11rFFewkM?si=0JTe7m-anN4JqSOk)
+- [Documentação Dart](https://dart.dev/guides)
+
+- [Curso Dart Completo](https://youtu.be/Vz11rFFewkM?si=0JTe7m-anN4JqSOk)
