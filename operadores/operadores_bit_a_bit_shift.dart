@@ -1,0 +1,1 @@
+// operadores/bit_a_bit.png => img sobre os operadores.
